@@ -9,7 +9,7 @@ I am Caner and I am addicted Android Developer from Turkey, Istanbul 🇹🇷
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
 - Loves playing games and a Assassin's Creed fan.
 
-# 💻 I'm currently working on
+# I'm currently working on 💻
 
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
