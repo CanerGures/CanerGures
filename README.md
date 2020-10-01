@@ -40,4 +40,12 @@ src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.
 
 # How to reach 📫
 
-[![LinkedIn Badge](https://img.shields.io/badge/CanerGURES-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/canergures/)
+<a href="https://www.linkedin.com/in/canergures/">
+  <img align="left" alt="Caner's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/CanerG95862923">
+  <img align="left" alt="Caner's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198014887463">
+  <img align="left" alt="Caner's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/steam.svg" />
+</a>
