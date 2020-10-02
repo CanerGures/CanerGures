@@ -2,7 +2,7 @@
 
 I am Caner and I am addicted Android Developer from Turkey, Istanbul 🇹🇷
 
-# About me
+## About me
 
 - 24 year old passioned Android Developer 📱
 - Mostly working on Kotlin, Android 👨‍💻
@@ -10,13 +10,13 @@ I am Caner and I am addicted Android Developer from Turkey, Istanbul 🇹🇷
 - Loves to play games and a Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
 
 
-# I'm currently working on 💻
+## I'm currently working on 💻
 
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
-# What I know & What I am Using 🧠
+## What I know & What I am Using 🧠
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="36" />  <img 
 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="36" />  <img 
@@ -28,14 +28,14 @@ src="https://api.nuget.org/v3-flatcontainer/karamunting.androidx.bumptech.glide.
 src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png"  width="36" /> 
 
 
-# Learning 📚
+## Learning 📚
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="50" src="https://3.bp.blogspot.com/-e2YZvW-tLtU/WvQfZehnE_I/AAAAAAAARZw/_SyZiSQ7VNcC3EhBqBiEXOs6Rrt5NZnbACK4BGAYYCw/s1600/Screenshot%2Bat%2BMay%2B10%2B15-58-29.png"></code>
 <code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/06/30_rxjava.png?fit=840%2C400&ssl=1"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/800/1*hOir8SBFtIAHTng6F-VxIA.png"></code>
 
-# How to read my blogs 📑
+## How to read my blogs 📑
 
 [![Medium Badge](https://img.shields.io/badge/CanerGURES-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@gurescaner)
 
