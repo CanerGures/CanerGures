@@ -1,4 +1,4 @@
-### Hello there and Hello World 👋
+# Hello there and Hello World 👋
 
 I am Caner and I am addicted Android Developer from Turkey, Istanbul 🇹🇷
 
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.
 
 [![Medium Badge](https://img.shields.io/badge/CanerGURES-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@gurescaner)
 
-# How to reach 📫
+## How to reach 📫
 
 <a href="https://www.linkedin.com/in/canergures/">
   <img align="left" alt="Caner's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
