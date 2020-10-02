@@ -7,7 +7,8 @@ I am Caner and I am addicted Android Developer from Turkey, Istanbul 🇹🇷
 - 24 year old passioned Android Developer 📱
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
-- Loves playing games and a Assassin's Creed fan.
+- Loves to play games and a Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
+
 
 # I'm currently working on 💻
 
