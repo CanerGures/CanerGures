@@ -5,6 +5,7 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 ## About me
 
 - 24 year old passionate Android Developer 📱
+- Works at Getir, one of the most successful start-ups in Turkey.
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
 - Loves to play games and a Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
@@ -15,7 +16,6 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img src="https://raw.githubusercontent.com/Hendriyawan/OfflineMP3/master/exoplayer.png" width="54"></code>
 
 ## What I know & What I am Using 🧠
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="36" />  <img 
