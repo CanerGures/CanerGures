@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.
 <a href="https://www.linkedin.com/in/canergures/">
   <img align="left" alt="Caner's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/CanerG95862923">
+<a href="https://twitter.com/CanerGrs">
   <img align="left" alt="Caner's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198014887463">
