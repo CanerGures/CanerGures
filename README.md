@@ -5,10 +5,10 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 ## About me
 
 - 25 year old passionate Android Developer 📱
-- Works at Getir, one of the most successful start-ups in Turkey.
+- Works at [Getir](https://getir.com/), one of the most successful start-ups in Turkey.
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
-- Loves to play games and a Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
+- Loves to play games and an Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
 
 
 ## I'm currently working on 💻
@@ -23,6 +23,7 @@ src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="3
 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="36" />  <img 
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="36" />  <img
 src="https://raw.githubusercontent.com/Hendriyawan/OfflineMP3/master/exoplayer.png" width="36"/> <img
+src="https://miro.medium.com/max/1400/1*F8y1zUB-WjSqaWL6CIp0nw.png" width="84" />  <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/1024px-Google_Material_Design_Logo.svg.png"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"  width="36" />  <img 
 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="36" /> <img 
