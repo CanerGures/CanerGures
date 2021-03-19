@@ -4,7 +4,7 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 
 ## About me
 
-- 24 year old passionate Android Developer 📱
+- 25 year old passionate Android Developer 📱
 - Works at Getir, one of the most successful start-ups in Turkey.
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
