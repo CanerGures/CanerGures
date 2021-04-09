@@ -5,7 +5,7 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 ## About me
 
 - 25 year old passionate Android Developer 📱
-- Works at [Getir](https://getir.com/), one of the most successful start-ups in Turkey.
+- Works at [Getir](https://getir.com/en/), one of the most successful start-ups in Turkey.
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
 - Loves to play games and an Assassin's Creed fan. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
