@@ -42,6 +42,12 @@ src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.
 
 [![Medium Badge](https://img.shields.io/badge/CanerGURES-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@gurescaner)
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanerGures&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/CanerGures) 
+
 ## How to reach 📫
 
 <a href="https://www.linkedin.com/in/canergures/">
