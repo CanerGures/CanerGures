@@ -13,11 +13,11 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 
 ## I'm currently working on 💻
 
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/kotlinlang-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
-## What I know & What I am Using 🧠
+## What I am proeficient with & What I am Using 🧠
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="36" />  <img 
 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="36" />  <img 
