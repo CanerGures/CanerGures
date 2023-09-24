@@ -5,10 +5,10 @@ I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
 ## About me
 
 - Born in 96, a passionate Android Developer 📱
-- Works at [Getir](https://getir.com/en/), one of the most successful start-ups and also a Decacorn company in Turkey. 
+- Works at [Thoughtoworks](https://www.linkedin.com/company/thoughtworks/mycompany/verification/), Romania
 - Mostly working on Kotlin, Android 👨‍💻
 - Writes what he learned on [Medium](https://medium.com/@gurescaner)
-- Loves to play games and a fan of Assassin's Creed Franchise. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
+- Loves to play games and is a fan of Assassin's Creed Franchise. <img src="https://p1.hiclipart.com/preview/880/768/54/logo-of-masyaf-assassin-s-creed-assassin-s-creed-logo-png-clipart.jpg" width="36" /> 
 
 
 ## I'm currently working on 💻
