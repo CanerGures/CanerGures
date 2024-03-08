@@ -42,8 +42,6 @@ src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanerGures&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/CanerGures) 
-
 ## How to reach 📫
 
 <a href="https://www.linkedin.com/in/canergures/">
