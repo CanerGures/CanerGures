@@ -1,6 +1,6 @@
 # Hello there and Hello World 👋
 
-I am Caner and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷
+I am Caner and I am an addicted Android Developer from Bucharest, Romania 🇷🇴 
 
 ## About me
 
